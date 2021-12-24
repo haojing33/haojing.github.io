@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26666495",
+      "name": "日出",
+      "font_class": "richu",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    }
+  ]
+}
